@@ -1,0 +1,6 @@
+- Hi, I’m Atakan İleri
+- I’m interested in Front-End Development!
+- I’m currently learning HTML, CSS, JavaScript
+- My E-mail: atakan1ileri@gmail.com
+- Pronouns: He/Him
+- Fun fact: I am a Digital Game Design graduate
